@@ -1,0 +1,8 @@
+[caps]
+platformName = "Android"
+deviceName =  "Galaxy S4"
+platformVersion =  "4.4"
+orientation = "PORTRAIT"
+browserName: "Chrome"
+appPackage = "com.android.chrome"
+appActivity = "com.google.android.apps.chrome.document.ChromeLauncherActivity"
